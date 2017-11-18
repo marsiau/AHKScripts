@@ -37,7 +37,7 @@ HideTrayTip()
 #IfWinActive
 
 ;---------- Additional ----------
-RCtrl::AppsKey
+<^>!RCtrl::AppsKey
 	
 ;---------- Virtual Monitors ----------
 <^>!Right::
